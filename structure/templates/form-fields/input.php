@@ -1,0 +1,1 @@
+<input type="{FIELD_TYPE}" name="{FIELD_NAME}" id="{FIELD_ID}" value="{FIELD_VALUE}"  class="um um-input um-{FIELD_NAME}"{CHECKED} />

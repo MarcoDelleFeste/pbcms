@@ -1,0 +1,2 @@
+<?php 
+trace($page->getAll);
