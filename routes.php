@@ -15,7 +15,7 @@
  *
  * @package pittbullcms
  */
-$routes = array(
+$pages = array(
 	'getAll'	=> array(
 		'id'=>'getAll',
 		'css_class'=> '',
